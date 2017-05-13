@@ -15,8 +15,8 @@ endobj
 stream
 BT
 /F1 18 Tf
-15 10 Td
-(Hello World) Tj
+15 10 Td (Hello World) Tj % this is a comment
+0 20 Td (another string) Tj
 ET
 endstream
 endobj
